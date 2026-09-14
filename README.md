@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Farhan 👋
 
-<!--
-**Farhan-Mansoor74/Farhan-Mansoor74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in Dubai focused on full-stack web applications, workflow automation, and data-driven tools.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Full stack:** JavaScript, React, Node.js, Python
+- **Data:** PostgreSQL, MongoDB, SQL, Power BI
+- **Automation:** n8n, Zoho CRM, Zoho Books
+- **Tools:** Docker, Figma
+
+## Featured project
+
+### [Dayflow](https://github.com/Farhan-Mansoor74/dayflow)
+An installable personal organizer for tasks, reminders, expenses, and a private vault. Built with a web frontend, Node/Express API, and PostgreSQL.
+
+## Currently
+
+- Building practical software that makes business workflows simpler
+- Growing through thoughtful open-source contributions
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/farhan-mohammed-mansoor-79705a266/)
