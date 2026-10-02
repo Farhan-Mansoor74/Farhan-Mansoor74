@@ -7,7 +7,8 @@ Software Developer in Dubai focused on full-stack web applications, workflow aut
 - **Full stack:** JavaScript, React, Node.js, Python
 - **Data:** PostgreSQL, MongoDB, SQL, Power BI
 - **Automation:** n8n, Zoho CRM, Zoho Books
-- **Tools:** Docker, Figma
+- **Tools:** Docker, Figma, GitHub, GitLab
+- **AI Tools:** Codex, Claude
 
 ## Featured projects
 
